@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="StudentProject">
+    <output-path>$PROJECT_DIR$/out/artifacts/StudentProject</output-path>
+    <root id="root" />
+  </artifact>
+</component>
