@@ -1,7 +1,7 @@
-package com.example.ecommerce.controllers;
+package com.example.commentmicroservices.controllers;
 
-import com.example.ecommerce.models.User;
-import com.example.ecommerce.services.UserService;
+import com.example.commentmicroservices.models.User;
+import com.example.commentmicroservices.services.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

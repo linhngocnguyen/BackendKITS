@@ -1,8 +1,8 @@
-package com.example.ecommerce.repositories;
+package com.example.commentmicroservices.repositories;
 
-import com.example.ecommerce.models.Comment;
-import com.example.ecommerce.models.Product;
-import com.example.ecommerce.models.User;
+import com.example.commentmicroservices.models.Comment;
+import com.example.commentmicroservices.models.Product;
+import com.example.commentmicroservices.models.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

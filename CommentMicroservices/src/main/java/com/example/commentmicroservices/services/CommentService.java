@@ -1,11 +1,12 @@
-package com.example.ecommerce.services;
+package com.example.commentmicroservices.services;
 
-import com.example.ecommerce.exception.ThereIsNoCommentOnProductException;
-import com.example.ecommerce.exception.ThereIsNoCommentOnUserException;
-import com.example.ecommerce.models.Comment;
-import com.example.ecommerce.models.Product;
-import com.example.ecommerce.models.User;
-import com.example.ecommerce.repositories.CommentRepository;
+
+import com.example.commentmicroservices.exception.ThereIsNoCommentOnProductException;
+import com.example.commentmicroservices.exception.ThereIsNoCommentOnUserException;
+import com.example.commentmicroservices.models.Comment;
+import com.example.commentmicroservices.models.Product;
+import com.example.commentmicroservices.models.User;
+import com.example.commentmicroservices.repositories.CommentRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

@@ -1,4 +1,4 @@
-package com.example.ecommerce.models;
+package com.example.commentmicroservices.models;
 
 import jakarta.persistence.*;
 import jakarta.validation.constraints.DecimalMin;

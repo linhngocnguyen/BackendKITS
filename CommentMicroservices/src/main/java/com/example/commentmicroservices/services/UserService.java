@@ -1,8 +1,9 @@
-package com.example.ecommerce.services;
+package com.example.commentmicroservices.services;
 
-import com.example.ecommerce.exception.UserDataNotPairingException;
-import com.example.ecommerce.models.User;
-import com.example.ecommerce.repositories.UserRepository;
+import com.example.commentmicroservices.exception.UserDataNotPairingException;
+import com.example.commentmicroservices.models.User;
+import com.example.commentmicroservices.repositories.UserRepository;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
